@@ -1,4 +1,6 @@
 # project
 ## project
 ### project
-Hello World!
+* add
+* subtract
+* multiply
